@@ -8,7 +8,7 @@
     and then just fire up the application and this will prompt you with selection and provide you with title name and link to that news
 
 ## Folder Structure
-The workspace contains two folders, where:
+The workspace contains three folders, where:
 
 -   'src'     : the folder to maintain sources
 -   'lib'     : the folder to maintain dependencies
